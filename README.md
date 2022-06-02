@@ -19,11 +19,24 @@ Ways of write a Makefile.
 
 ## Part 1
 - Makefile can fit in one line
+- Command all
 - Use command ' gcc ' and  ' -o' 
 
 **== Task ==**
 - Write a Makefile in one line 
-- The Makifele must be main in C language of C11 standard using gcc compiler
+- The Makifele must be main in C language of C11 standart using gcc compiler
 -  Code and the executable file must be located in the src folder or its any subfolder
 
+![Task 1](misc/images/cron2.png)
+
 ## Part 2
+- Makefile with a object files
+- Command clean
+
+**== Task ==**
+- Wrire a Makefile with objects files
+- The Makefle must be main in C language og C11 standart
+ussing gcc compiler
+- Code and the executable file must be located in the src folder or its any subfolder
+
+![Task 2](misc/images/cron3.png)

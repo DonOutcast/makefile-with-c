@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/User/it/Project on C/makefile-with-c/src'
+make.exe: Leaving directory 'c:/Users/User/it/Project on C/makefile-with-c/src'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+
