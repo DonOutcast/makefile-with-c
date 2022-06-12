@@ -1,4 +1,4 @@
-make.exe --dry-run --keep-going --print-directory
+make.exe --dry-run --always-make --keep-going --print-directory
 make.exe: Entering directory 'c:/Users/User/it/Project on C/makefile-with-c/src'
 make.exe: Leaving directory 'c:/Users/User/it/Project on C/makefile-with-c/src'
  

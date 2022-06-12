@@ -4,13 +4,18 @@ CFLAGS = -Wall -Werror -Wextra -std=c11
 SOURCES = print.c
 OBJECTS = $(SOURCES:.c=.o)
 EXECUTABLE= make.exe
+LIBA = libprint.a
 
 all: $(SOURCES) $(EXECUTABLE)
 
 $(EXECUTABLE): $(OBJECTS)
-	$(CC) $(OBJECTS) -o $@
+	$(CC) -L. -lprint $(OBJECTS) -o $@
 .c:.o
-	$(CC) $(CFLAGS) $< -o $@
+	$(CC) -c $(CFLAGS) $< -o $@
+
+static:
+	ar -rs $(LIBA) $(OBJECTS)
+	ranlib $(LIBA)
 clean:
 	rm -rf *.o $(EXECUTABLE)
 rebuild:

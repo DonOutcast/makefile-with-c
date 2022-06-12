@@ -8,7 +8,7 @@ This program is built by Equation Solution <http://www.Equation.com>.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jun 02 13:51:41 2022
+# Make data base, printed on Sun Jun 12 22:01:03 2022
 
 # Variables
 
@@ -61,9 +61,9 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-bdd284bb-4644-4493-95f3-e99620e1b471-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-604c0af2-529d-4a0f-a549-bf0bcc92d2d1-sock
 # environment
-VSCODE_CWD = C:\Users\User\AppData\Local\Programs\Microsoft VS Code
+VSCODE_CWD = C:\Users\User\it\Project on python\simple-bot-aiogram
 # default
 MAKE_HOST := i686-pc-mingw32
 # environment
@@ -87,7 +87,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_13916_OSNJBVEFMUFWDBGL
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_8024_TBIURWLKMPHDASVZ
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -199,7 +199,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 23
 # environment
-VSCODE_PID = 13916
+VSCODE_PID = 8024
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-N2FE5I0
 # variable set hash-table stats:
@@ -211,9 +211,9 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-N2FE5I0
 
 # Directories
 
-# . (key c:/Users/User/it/Project on C/makefile-with-c/src, mtime 1654166928ll): 7 files, no impossibilities.
+# . (key c:/Users/User/it/Project on C/makefile-with-c/src, mtime 1655060409ll): 10 files, no impossibilities.
 
-# 7 files, no impossibilities in 1 directories.
+# 10 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -263,12 +263,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 13 / storage = 94 B / avg = 7 B
-# current buf: size = 8174 B / used = 94 B / count = 13 / avg = 7 B
+# strcache buffers: 1 (0) / strings = 16 / storage = 113 B / avg = 7 B
+# current buf: size = 8174 B / used = 113 B / count = 16 / avg = 7 B
 
-# strcache performance: lookups = 16 / hit rate = 18%
+# strcache performance: lookups = 19 / hit rate = 15%
 # hash-table stats:
-# Load=13/8192=0%, Rehash=0, Collisions=1/16=6%
-# Finished Make data base on Thu Jun 02 13:51:41 2022
+# Load=16/8192=0%, Rehash=0, Collisions=1/19=5%
+# Finished Make data base on Sun Jun 12 22:01:03 2022
 
  
