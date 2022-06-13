@@ -1,13 +1,16 @@
-all: main
+all: print.o static main
 
-main: print.o
+main:
 	gcc print.c -L. -lprint -o a.exe
+	.\a.exe
 
-print.o: print.c print.h
+print.o:
 	gcc -c print.c
 
-static: main print.o
+static:
 	ar -rc libprint.a print.o
 	ranlib libprint.a
 clean:
-	rm -rf *.o
+	del *.o
+	del *.a
+	del *.exe
