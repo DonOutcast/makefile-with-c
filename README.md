@@ -7,6 +7,9 @@ Ways of write a Makefile.
 0. [Preamble](#preamble)
 1. [Part I](#part-1)
 2. [Part II](#part-2)
+3. [Part III](#part-3)
+4. [Part IV](#part-4)
+5. [Part V](#part-5)
 
 ![Makefile](misc/images/cron.png)
 
@@ -18,26 +21,16 @@ Ways of write a Makefile.
 
 
 ## Part 1
-- Makefile can fit in one line
-- Command all
-- Use command ' gcc ' and  ' -o' 
+- Wriete a Makefile five different ways
 
 **== Task ==**
-- Write a Makefile in one line 
-- The Makifele must be main in C language of C11 standart using gcc compiler
--  Code and the executable file must be located in the src folder or its any subfolder
 
 ![Task 1](misc/images/cron1.png)
 
 ## Part 2
-- Makefile with a object files
-- Command clean
 
 **== Task ==**
-- Wrire a Makefile with objects files
-- The Makefle must be main in C language og C11 standart
-ussing gcc compiler
-- Code and the executable file must be located in the src folder or its any subfolder
+
 
 ![Task 2](misc/images/cron2.png)
 
