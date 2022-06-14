@@ -8,7 +8,7 @@ This program is built by Equation Solution <http://www.Equation.com>.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jun 12 22:01:03 2022
+# Make data base, printed on Mon Jun 13 10:40:27 2022
 
 # Variables
 
@@ -43,8 +43,6 @@ WINDIR = C:\Windows
 # environment
 VSCODE_NLS_CONFIG = {"locale":"en","availableLanguages":{},"_languagePackSupport":true}
 # environment
-VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
-# environment
 PYCHARM COMMUNITY EDITION = C:\Program Files\JetBrains\PyCharm Community Edition 2021.3.1\bin;
 # environment
 ONEDRIVE = C:\Users\User\OneDrive
@@ -61,9 +59,9 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-604c0af2-529d-4a0f-a549-bf0bcc92d2d1-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-6cbf9f6c-1430-46ac-b263-e43a4f48d214-sock
 # environment
-VSCODE_CWD = C:\Users\User\it\Project on python\simple-bot-aiogram
+VSCODE_CWD = C:\Users\User\AppData\Local\Programs\Microsoft VS Code
 # default
 MAKE_HOST := i686-pc-mingw32
 # environment
@@ -87,7 +85,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_8024_TBIURWLKMPHDASVZ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_13580_RGIUOKLSHYLTTHKG
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -199,11 +197,11 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 23
 # environment
-VSCODE_PID = 8024
+VSCODE_PID = 13580
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-N2FE5I0
 # variable set hash-table stats:
-# Load=95/1024=9%, Rehash=0, Collisions=15/113=13%
+# Load=94/1024=9%, Rehash=0, Collisions=15/112=13%
 
 # Pattern-specific Variable Values
 
@@ -269,6 +267,6 @@ GNUmakefile:
 # strcache performance: lookups = 19 / hit rate = 15%
 # hash-table stats:
 # Load=16/8192=0%, Rehash=0, Collisions=1/19=5%
-# Finished Make data base on Sun Jun 12 22:01:03 2022
+# Finished Make data base on Mon Jun 13 10:40:27 2022
 
  
